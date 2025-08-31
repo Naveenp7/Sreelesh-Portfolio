@@ -3,7 +3,7 @@ import './globals.css';
 import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: 'Sreelesh C. - AI Engineer & Creative Visionary',
+  title: 'Sreelesh C. - AI Engineer & Content Creator',
   description: 'Portfolio of Sreelesh C. - Where artificial intelligence meets artistic vision. Showcasing expertise in AI & Data Science alongside creative videography and photography.',
   keywords: ['AI Engineer', 'Data Science', 'Videographer', 'Photographer', 'Creative Director'],
   authors: [{ name: 'Sreelesh C.' }],
@@ -14,7 +14,7 @@ export const metadata: Metadata = {
     userScalable: false,
   },
   openGraph: {
-    title: 'Sreelesh C. - AI Engineer & Creative Visionary',
+    title: 'Sreelesh C. - AI Engineer & Content Creator',
     description: 'Where artificial intelligence meets artistic vision',
     type: 'website',
   },
