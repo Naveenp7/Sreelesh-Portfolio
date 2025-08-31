@@ -4,8 +4,9 @@ import React, { useState } from 'react';
 import { motion } from 'framer-motion';
 import { Brain, Camera, Code2, Palette } from 'lucide-react';
 
+type Skill = { icon: React.ElementType; title: string; description: string };
+
 const AboutSection = () => {
-  type Skill = { icon: React.ElementType; title: string; description: string };
   const skills: Skill[] = [
     {
       icon: Brain,
